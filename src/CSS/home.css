@@ -1,0 +1,20 @@
+
+.about-us{
+    display: flex;
+    margin: 10px 0 10px 0;
+    justify-content: center;
+}
+
+.about-us p{
+    width: 45%;
+}
+
+.about-us p{
+    margin: 15px;
+}
+
+#about-header{
+    width: 300px;
+    margin-left: 45%;
+    margin-right: 45%;
+}

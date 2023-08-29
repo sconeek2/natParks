@@ -1,0 +1,15 @@
+.park-data-container{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    flex-wrap:wrap;
+    margin-top: 10px;
+}
+
+.select-container{
+    margin-left: 5px;
+}
+
+.select-label{
+    margin-right: 5px;
+}

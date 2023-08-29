@@ -1,0 +1,17 @@
+
+
+.table-container{
+    display: flex;
+    justify-content: center;
+    line-height: 30px;
+}
+
+.parks-table{
+    margin: auto;
+    width: 75vw;
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: gray 1px solid;
+}

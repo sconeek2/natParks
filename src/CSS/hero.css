@@ -1,0 +1,28 @@
+
+.hero-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://www.usnews.com/dims4/USNEWS/1fc0b78/2147483647/resize/1200x%3E/quality/85/?url=http:%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F02%2F5a%2F9f703dee4990843b40902de4c617%2Fyosemite2-getty-loic-lagarde.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    -webkit-text-stroke: 1px black;
+    font-size: 25px;
+    color: white;
+}
+
+
+
+.button {
+    margin: 1em;
+    padding: 5px;
+    border: solid 3px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    -webkit-text-stroke: .5px black;
+    font-weight: 700;
+}
+
